@@ -10,3 +10,10 @@ Tic-tac-toe (American English), noughts and crosses (British English), or Xs and
 
 ![Screenshot from 2019-05-29 21-39-53](https://user-images.githubusercontent.com/29921692/58573032-7ef28000-825a-11e9-8910-13e541954b99.png)
 
+
+## How to run?
+### compile:
+gcc -c tictactoe.adb
+gnatmake tictactoe
+### execute:
+./tictactoe
