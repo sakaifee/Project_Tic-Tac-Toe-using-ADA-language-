@@ -14,6 +14,8 @@ Tic-tac-toe (American English), noughts and crosses (British English), or Xs and
 ## How to run?
 ### compile:
 gcc -c tictactoe.adb
+
 gnatmake tictactoe
+
 ### execute:
 ./tictactoe
