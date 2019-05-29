@@ -18,4 +18,4 @@ gcc -c tictactoe.adb
 gnatmake tictactoe
 
 ### execute:
-./tictactoe
+. / tictactoe
